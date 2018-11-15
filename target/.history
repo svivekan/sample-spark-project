@@ -15,3 +15,4 @@ test:full-classpath
 clean compile
 clean
 compile
+assembly
