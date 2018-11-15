@@ -1,0 +1,17 @@
+compile
+console
+test
+clear
+cls
+test
+clean
+test
+compile
+clean test compile
+test
+compile
+test
+test:full-classpath
+clean compile
+clean
+compile
