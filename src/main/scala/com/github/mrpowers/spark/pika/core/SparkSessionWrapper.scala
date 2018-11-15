@@ -8,7 +8,7 @@ trait SparkSessionWrapper {
     SparkSession
       .builder()
       .master("local")
-      .appName("spark pika")
+      .appName("sample-spark-project")
       .getOrCreate()
   }
 
